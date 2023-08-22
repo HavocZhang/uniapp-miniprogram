@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "manifest.json": "jsonc",
+    "pages.json": "jsonc"
+  },
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
